@@ -1,14 +1,10 @@
 # 🚀TGE and Token Launch
 
-
-
 **Cap Table:**
 
 Shima Capital, RedSwiss VC, Marshland Capital, Nakamoto Games, D64 Ventures
 
-
-
-**$GEMAI Token rounds:**
+**$GEMVM Token rounds:**
 
 ✅ Seed round: $0.1; 0% at TGE; 2m cliff, 24m vesting
 
@@ -16,7 +12,7 @@ Shima Capital, RedSwiss VC, Marshland Capital, Nakamoto Games, D64 Ventures
 
 ✅ IDO: $0.2; 14% at TGE; 1m cliff, 5m vesting
 
-📣 Max token supply: 75,000,000 $GEMAI
+📣 Max token supply: 75,000,000 $GEMVM
 
 📣 Max Raise: $4,080,000
 

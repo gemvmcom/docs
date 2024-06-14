@@ -1,6 +1,6 @@
 # Business model & Revenue Streams
 
-Gem ai’s primary revenue streams include:
+GEMVM’s primary revenue streams include:
 
 * Profit fees
 * Trading fees and transaction fees

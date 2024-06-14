@@ -1,6 +1,6 @@
 ---
 description: >-
-  Welcome to GEMAI-Protocol giveaways for a total of $5,000 in $GEMAI for each
+  Welcome to GEMVM-Protocol giveaways for a total of $5,000 in $GEMVM for each
   region!
 ---
 
@@ -8,9 +8,9 @@ description: >-
 
 **Here's how it works:** the first 50 winners from each region, who receive $50 in project tokens, will be selected from the top-50 participants by the number of friends invited.
 
-In addition, 50 participants are randomly selected to receive $50 worth of $GEMAI each.
+In addition, 50 participants are randomly selected to receive $50 worth of $GEMVM each.
 
-Rewards earned from these campaigns will be dispersed in two equal increments over a period of two weeks. These rewards will be redeemed in $GEMAI, with their corresponding value determined by the stablecoin rate at the precise date of distribution. Winners will have to pass a KYC to claim their reward.
+Rewards earned from these campaigns will be dispersed in two equal increments over a period of two weeks. These rewards will be redeemed in $GEMVM, with their corresponding value determined by the stablecoin rate at the precise date of distribution. Winners will have to pass a KYC to claim their reward.
 
 We highly recommend that participants keep a close eye on our updates for information about the campaign results and more. Your anticipation is greatly appreciated.
 
@@ -29,7 +29,7 @@ By participating in this campaign, you acknowledge and agree to these Terms & Co
 **How to claim the reward:**
 
 1. Verify if your wallet is included in the list of winners.
-2. If you are eligible for a reward, register an account at app.gemai-protocol.io.
+2. If you are eligible for a reward, register an account at app.gemvm-protocol.io.
 3. Complete the KYC (Know Your Customer) process on the "Exchange Accounts" page (click on 'Create a New Account.' A yellow "KYC" banner will then appear. Click on this banner to proceed with the KYC process).
 4. The KYC Telegram @username, and BEP-20 wallet address must match the data provided in the telegram bot.
 5. Fill out the form provided.

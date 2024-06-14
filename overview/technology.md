@@ -7,14 +7,10 @@ description: >-
 
 # Technology
 
-<figure><img src="../.gitbook/assets/Frame 13.png" alt=""><figcaption></figcaption></figure>
-
 The presented system is delineated into two primary modules:
 
 * An accurately trained AI model.
 * A processing mechanism adapted for user requests within an AI consultant interface.
-
-
 
 #### Extended Investment Opportunities <a href="#extended-investment-opportunities" id="extended-investment-opportunities"></a>
 
@@ -24,9 +20,7 @@ The presented system is delineated into two primary modules:
 
 While Open AI has been selected as our primary AI provider, the architecture of our system maintains inherent adaptability. This ensures seamless transitions to alternative AI providers, if a future need arises, preserving system functionality and integrity.
 
-
-
-**AI Consierge & Retail Partners Network:**&#x20;
+**AI Consierge & Retail Partners Network:**
 
 * User-Retail Interaction: This feature enables users to engage directly with retail brands via our AI consultant.
 * Partner Cashback: Upon transactions, users benefit from partner cashback derived from the affiliated trading network.

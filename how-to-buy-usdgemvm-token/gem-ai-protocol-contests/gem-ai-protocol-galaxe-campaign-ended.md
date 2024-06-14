@@ -1,12 +1,12 @@
 ---
-description: Welcome to GEM AI Protocol $5,000 Galaxe Campaign
+description: Welcome to GEM VM Protocol $5,000 Galaxe Campaign
 ---
 
-# 🔥GEM AI Protocol Galaxe Campaign\[Ended]
+# 🔥GEM VM Protocol Galaxe Campaign\[Ended]
 
-**Here's how it works:** 100 lucky participants are randomly selected to receive $50 worth of $GEMAI or $DAO each.
+**Here's how it works:** 100 lucky participants are randomly selected to receive $50 worth of $GEMVM or $DAO each.
 
-Rewards earned from these campaigns will be dispersed in two equal increments over a period of two weeks. These rewards will be redeemed in $GEMAI, with their corresponding value determined by the stablecoin rate at the precise date of distribution. Winners will have to pass a KYC to claim their reward.
+Rewards earned from these campaigns will be dispersed in two equal increments over a period of two weeks. These rewards will be redeemed in $GEMVM, with their corresponding value determined by the stablecoin rate at the precise date of distribution. Winners will have to pass a KYC to claim their reward.
 
 We highly recommend that participants keep a close eye on our updates for information about the campaign results and more. Your anticipation is greatly appreciated.
 
@@ -25,7 +25,7 @@ By participating in this campaign, you acknowledge and agree to these Terms & Co
 **How to claim the reward:**
 
 1. Verify if your wallet is included in the list of winners.
-2. If you are eligible for a reward, register an account at app.gemai-protocol.io.
+2. If you are eligible for a reward, register an account at app.gemvm-protocol.io.
 3. Complete the KYC (Know Your Customer) process on the "Exchange Accounts" page (click on 'Create a New Account.' A yellow "KYC" banner will then appear. Click on this banner to proceed with the KYC process).
 4. The KYC Telegram @username, and BEP-20 wallet address must match the data provided in Galaxe.
 5. Fill out the form provided.

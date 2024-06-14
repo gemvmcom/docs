@@ -1,12 +1,8 @@
----
-description: GEMAI-Protocol.io
----
-
 # Blurb
 
 #### **Web 3.0 AI execution protocol** <a href="#web-3.0-ai-execution-protocol" id="web-3.0-ai-execution-protocol"></a>
 
-GEMAI _Protocol builds an AI Layer for Web3 with a goal of onboard 100 Million users._
+GEMVM _Protocol builds an AI Layer for Web3 with a goal of onboard 100 Million users._
 
 #### **Track record & Performance** <a href="#track-record-and-performance" id="track-record-and-performance"></a>
 
@@ -48,15 +44,15 @@ _- AI NFT management_
 
 _- AI-powered Web3 onboarding\&education_
 
-#### GEMAI API SDK (B2B) <a href="#gt-api-sdk-b2b" id="gt-api-sdk-b2b"></a>
+#### GEMVM API SDK (B2B) <a href="#gt-api-sdk-b2b" id="gt-api-sdk-b2b"></a>
 
-API SDK enables 3rd party Web2 and Web3 platforms to integrate GEMAI AI Execution technology and GEMAI Web3.0 investment marketplace, into their interfaces.
+API SDK enables 3rd party Web2 and Web3 platforms to integrate GEMVM AI Execution technology and GEMVM Web3.0 investment marketplace, into their interfaces.
 
-_-_ GEMAI _AI could be connected to vendors' apps, providing AI assistance and making apps' functionalities accessible to users through an AI interface._
+_-_ GEMVM _AI could be connected to vendors' apps, providing AI assistance and making apps' functionalities accessible to users through an AI interface._
 
 _- It can also provide functionality for crypto investment in CeFi, DeFi, NFTs, AI trading, AI crypto market analysis._
 
-#### GEMAI APP <a href="#gt-app" id="gt-app"></a>
+#### GEMVM APP <a href="#gt-app" id="gt-app"></a>
 
 The gateway to the world of crypto trading\&investing powered by AI:
 
@@ -102,8 +98,8 @@ Amazon, AliExpress, eBay, Etsy, Apple, Microsoft, Udemy, Puma, Booking, Fly Emir
 
 **Links**
 
-Website&#x20;
+Website
 
 **Social links:**
 
-Telegram Channel | Telegram Chat | Twitter | YouTube&#x20;
+Telegram Channel | Telegram Chat | Twitter | YouTube

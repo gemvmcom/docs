@@ -15,7 +15,7 @@ By participating in this campaign, you acknowledge and agree to these Terms & Co
 **How to pass KYC:**
 
 1. Verify if your wallet is included in the list of winners.
-2. If you are eligible for a reward, register an account at app.gemai-protocol.io.
+2. If you are eligible for a reward, register an account at app.gemvm-protocol.io.
 3. Complete the KYC (Know Your Customer) process on the "Exchange Accounts" page (click on 'Create a New Account.' A yellow "KYC" banner will then appear. Click on this banner to proceed with the KYC process).
 4. The KYC Telegram @username, and BEP-20 wallet address must match the data provided in the campaign.
 5. Fill out the form provided on the instructions page for your dedicated campaign.

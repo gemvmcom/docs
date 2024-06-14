@@ -1,8 +1,6 @@
-# Buy $GEMAI on Bybit
+# Buy $GEMVM on Bybit
 
-
-
-**Begin Your GTAI Token Journey on Bybit!**
+**Begin Your GEMVMToken Journey on Bybit!**
 
 We have a detailed guide that will help you register, complete verification, and fund your account on the Bybit exchange quickly and easily. We suggest starting this process right now!
 

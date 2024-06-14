@@ -1,12 +1,10 @@
 ---
 description: >-
-  Welcome to GEMAI-Protocol airdrop campaign! We're excited to offer our
+  Welcome to GEMVM-Protocol airdrop campaign! We're excited to offer our
   community an opportunity to win a share of our $5,000 airdrop pool.
 ---
 
 # 🔥$5,000 USDT AirDrop for Wise Advice community \[Ended]
-
-
 
 **Here's how it works:**
 
@@ -20,11 +18,7 @@ Winners have 7 days to pass a KYC & claim their reward.
 
 We highly recommend that participants keep a close eye on our updates for information about the campaign results and more. Your anticipation is greatly appreciated.
 
-
-
-**Thank you for being a part of the GEMAI-Protocol community.**
-
-
+**Thank you for being a part of the GEMVM-Protocol community.**
 
 **Legal Disclaimer:**
 
@@ -38,18 +32,14 @@ Please note that potential winners cannot claim their rewards until they have su
 
 By participating in this campaign, you acknowledge and agree to these Terms & Conditions. Your participation constitutes your full and unconditional agreement to and acceptance of these rules.
 
-
-
 **How to claim the reward:**
 
 1. \
    Verify if your wallet is included in the list of winners.
-2. If you are eligible for a reward, register an account at app.gemai-protocol.io.
+2. If you are eligible for a reward, register an account at app.gemvm-protocol.io.
 3. Complete the KYC (Know Your Customer) process on the "Exchange Accounts" page.
 4. Fill out the form provided.
 5. Winners have 7 days to complete the KYC process and submit the form.
 6. Rewards will be distributed to the wallets of users who have successfully passed the KYC and submitted the form by November 21th.
-
-
 
 ##
