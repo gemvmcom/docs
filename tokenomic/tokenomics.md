@@ -1,5 +1,5 @@
 ---
-description: '📣 Max token supply: 549,984,000 $GEMAI'
+description: '📣 Max token supply: 549,984,000 $GEMVM'
 ---
 
 # Tokenomics

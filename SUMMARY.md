@@ -13,7 +13,7 @@
 
 ## TOKENOMIC
 
-* [$GEMAI Token and it's Utilities](tokenomic/usdgemai-token-and-its-utilities.md)
+* [$GEMVM Token and it's Utilities](tokenomic/usdgemvm-token-and-its-utilities.md)
 * [Tokenomics](tokenomic/tokenomics.md)
 
 ## LINKS AND SOCIALS
